@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.0</Version>
+  <Workshop>
+    <ID>EquipPageLight</ID>
+    <Title>UI.EquipPage.Light</Title>
+    <Description>Shows starting + start of Scene light recover out of max light on Equip Pages.</Description>
+    <Tag />
+    <PreviewImage />
+  </Workshop>
+</NormalInvitation>

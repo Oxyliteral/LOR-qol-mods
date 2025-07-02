@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.0</Version>
+  <Workshop>
+    <ID>Damage</ID>
+    <Title>UI.Battle.Damage</Title>
+    <Description>Filters damage types for display of icons.</Description>
+    <Tag />
+    <PreviewImage />
+  </Workshop>
+</NormalInvitation>

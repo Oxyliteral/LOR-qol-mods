@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.0</Version>
+  <Workshop>
+    <ID>HandSize</ID>
+    <Title>UI.Battle.Hand</Title>
+    <Description>Allows display of more than one row of cards in hand.</Description>
+    <Tag />
+    <PreviewImage />
+  </Workshop>
+</NormalInvitation>

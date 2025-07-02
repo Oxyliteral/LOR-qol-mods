@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.0</Version>
+  <Workshop>
+    <ID>BattleUnitLight</ID>
+    <Title>UI.Battle.Unit.Light</Title>
+    <Description>Allows display of more than 5 light in a row.</Description>
+    <Tag />
+    <PreviewImage />
+  </Workshop>
+</NormalInvitation>
